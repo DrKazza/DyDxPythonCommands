@@ -74,7 +74,7 @@ aevoInstIDList = {
     'ZETA-PERP': '18342' }
 
 # fix this:
-# dydxInsts = [
+# dydx3Insts = [
 # SUSHI-USD
 # LTC-USD
 # ALGO-USD
@@ -113,3 +113,61 @@ aevoInstIDList = {
 # FIL-USD
 # BTC-USD
 # ETC-USD]
+
+# dydx4insts = [{'positions': []}
+# BTC-USD
+# ETH-USD
+# LINK-USD
+# MATIC-USD
+# CRV-USD
+# SOL-USD
+# ADA-USD
+# AVAX-USD
+# FIL-USD
+# LTC-USD
+# DOGE-USD
+# ATOM-USD
+# DOT-USD
+# UNI-USD
+# BCH-USD
+# TRX-USD
+# NEAR-USD
+# MKR-USD
+# XLM-USD
+# ETC-USD
+# COMP-USD
+# WLD-USD
+# APE-USD
+# APT-USD
+# ARB-USD
+# BLUR-USD
+# LDO-USD
+# OP-USD
+# PEPE-USD
+# SEI-USD
+# SHIB-USD
+# SUI-USD
+# XRP-USD
+# TIA-USD
+# JUP-USD
+# AAVE-USD
+# BNB-USD
+# JTO-USD
+# ORDI-USD
+# EOS-USD
+# ICP-USD
+# DYM-USD
+# STRK-USD
+# FET-USD
+# WOO-USD
+# PYTH-USD
+# BONK-USD
+# AGIX-USD
+# RNDR-USD
+# STX-USD
+# INJ-USD
+# IMX-USD
+# HBAR-USD
+# ALGO-USD
+# GRT-USD
+# MANA-USD]
